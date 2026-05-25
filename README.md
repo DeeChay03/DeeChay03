@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Advanced Backend Development
 - 💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript, and C++
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: lunsomnang03@gmail.com
 - ⚡ Fun fact: I love building modern UI designs and coding late at night 🌙
 
 ---
@@ -47,4 +47,4 @@
 
 ---
 
-⭐️ From [DeeChay03](https://github.com/DeeChay03)
+⭐️ From [DeeChay03](https://gith@ub.com/DeeChay03)
