@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,python" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,interllij,figma,linux" />
 
 </div>
 
