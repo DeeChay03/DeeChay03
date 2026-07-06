@@ -22,7 +22,7 @@
 - 📫 Reach me at: **Lunsomnang03@gmail.com**
 - ⚡ Fun fact: **I debug faster after drinking coffee ☕**
 - 🎯 Goal: **Become a Professional Software Engineer**
-- 🚀 Currently improving my **UI/UX and Problem Solving Skills**
+- 🚀 Currently improving my **UI/UX and problem-solving skills **
 
 ---
 
@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,key" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=cpp,java,python" />
