@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DeeChay</h1>
+<h1 align="center">Hi 👋, I'm Nang</h1>
 
 <h3 align="center">
 💻 Passionate Full Stack Developer from Cambodia 🇰🇭
