@@ -31,10 +31,10 @@
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next," />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,keycloak" />
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=cpp,java,python" />
