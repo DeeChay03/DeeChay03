@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,keycloak" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,key" />
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=cpp,java,python" />
